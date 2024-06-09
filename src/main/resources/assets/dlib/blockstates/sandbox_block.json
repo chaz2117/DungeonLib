@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dlib:block/sandbox_block"
+    }
+  }
+}

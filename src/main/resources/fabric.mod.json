@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "dlib",
+  "version": "${version}",
+  "name": "Dungeon Lib",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/chaz2117/Dungeon Lib"
+  },
+  "license": "LGPL-3.0",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.chaz2117.dlib.client.DungeonLibClient"
+    ],
+    "main": [
+      "net.chaz2117.dlib.DungeonLib"
+    ]
+  },
+  "mixins": [
+    "dlib.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "gui.sandbox.sandbox_id": "Sandbox ID",
+  "gui.sandbox.sandbox_dimensions": "Dimensions",
+  "gui.sandbox.sandbox_offset": "Offset",
+  "gui.sandbox.allow": "ALLOW",
+  "gui.sandbox.prevent": "PREVENT",
+  "gui.sandbox.save": "Save",
+  "gui.sandbox.invalid_path": "§cInvalid identifier",
+
+  "dlib.sandbox.wrote_type_fail": "Failed to write sandbox type",
+  "dlib.sandbox.wrote_type_success": "Successfully wrote sandbox type"
+}
